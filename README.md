@@ -1,6 +1,6 @@
 ## Hi there 👋### Olá! 👋 Bem-vindo ao meu GitHub
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na Unicesumar, atualmente construindo minha base sólida em programação e lógica computacional.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, atualmente construindo minha base sólida em programação e lógica computacional.
 
 ---
 
